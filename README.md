@@ -1,2 +1,3 @@
 # MNPtest1
-second Demo
+this is second Demo
+this is mnp test2 readme file
